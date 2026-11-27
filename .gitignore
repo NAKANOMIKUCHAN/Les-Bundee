@@ -1,0 +1,4 @@
+# Edukids Privat - Git Ignore
+.vscode/
+.idea/
+*.log
